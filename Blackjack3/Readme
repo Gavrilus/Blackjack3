@@ -1,1 +1,9 @@
 
+Funcționalități
+Amestecarea cărților: La începutul fiecărui joc, pachetul de cărți este amestecat.
+Turul jucător: Jucătorul poate alege să primească o nouă carte ("hit") sau să rămână cu ce are ("stand").
+Turul dealer: Dealer-ul trage cărți până când obține un scor de minim 17 sau depășește 21.
+Cum  se castiga : Se compară scorul jucătorului cu cel al dealer-ului pentru a decide câștigătorul.
+Cum să rulezi programul
+Compilează proiectul folosind Visual Studio Code
+Rularea programului va incepe un joc nou de Blacjkjack
